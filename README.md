@@ -2,6 +2,7 @@ Red Fish, Blue Fish
 ======
 
 Bryan Rainey
+
 raineyb@purdue.edu
 
 A fish simulator. Models the populations of two species of fish in a pond 
