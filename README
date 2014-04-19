@@ -39,6 +39,6 @@ Start with simple combinations of parameters. (I would recommend trying
 10 fish of each color and 0 for every probability.) Let me know if you try 
 some combination of parameters and the results are nonsensical.
 
-This is similar to Conway's Game of Life (see Wikipedia if you're not 
-familiar), except here, there are random elements, so this is called a 
+This is similar to Conway's Game of Life (Wikipedia has a nice article on 
+this), except here, there are random elements, so this is called a 
 stochastic cellular automaton.
