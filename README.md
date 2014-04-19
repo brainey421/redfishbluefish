@@ -1,4 +1,5 @@
 Red Fish, Blue Fish
+======
 
 Bryan Rainey
 raineyb@purdue.edu
@@ -8,6 +9,7 @@ over time.
 
 
 Getting and running the program:
+------
 
 Navigate to github.com/brainey421/redfishbluefish, and click "Download 
 ZIP." Unzip "redfishbluefish-master.zip." In MATLAB, change the 
@@ -16,6 +18,7 @@ type "redfishbluefish."
 
 
 How the program works:
+------
 
 The left half of the window is a 50-by-50 grid that models a pond of red 
 fish and blue fish. Each cell in the grid either is empty, contains one red 
