@@ -27,7 +27,7 @@ so that a fish can move from one side of the grid to the other in one step.
 Enter the initial populations of red fish and blue fish. P(reproduce) 
 is the probability that a fish reproduces at each time step. P(die by 
 collision w/ same color) is the probability that a fish will die if it 
-collides with  a fish of the same color. P(die by collision w/ other color) 
+collides with a fish of the same color. P(die by collision w/ other color) 
 is the probability that a fish will die if it collides with a fish of 
 the other color.
 
