@@ -4,7 +4,7 @@ Bryan Rainey
 raineyb@purdue.edu
 
 A fish simulator. Models the populations of two species of fish in a pond 
-over time using a stochastic cellular automaton.
+over time.
 
 
 Getting and running the program:
@@ -34,6 +34,10 @@ the other color.
 "Run" starts the simulation, and "Stop" ends the simulation. The number of 
 each color of fish is always in the bottom right-hand corner. If the grid 
 has a lot of fish, the program tends to run slowly.
+
+Start with simple combinations of parameters. I would recommend trying 
+10 fish of each color and 0 for every probability. Let me know if you try 
+some combination of parameters and the results are nonsensical.
 
 This is similar to Conway's Game of Life (see Wikipedia if you're not 
 familiar), except here, there are randomn elements, so this is called a 
