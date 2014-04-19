@@ -184,7 +184,7 @@ while data.stop ~= 1
         end
     end
     
-    % Update grid step 3: collision
+    % Update grid step 2: collision
     for ii=1:size(handles.fishgrid, 1)
         for jj=1:size(handles.fishgrid, 2)
             if (handles.fishgrid(ii, jj) > 0)
@@ -225,7 +225,7 @@ while data.stop ~= 1
         end
     end
     
-    % Update grid step 2: reproduction
+    % Update grid step 3: reproduction
     for ii=1:size(handles.fishgrid, 1)
         for jj=1:size(handles.fishgrid, 2)
             if (handles.fishgrid(ii, jj) > 0)
@@ -255,8 +255,6 @@ while data.stop ~= 1
             handles.fishgrid(ii, jj) = abs(handles.fishgrid(ii, jj));
         end
     end
-    
-    
     
     % Update plot
     hold off;
